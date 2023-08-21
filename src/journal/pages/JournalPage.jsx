@@ -9,10 +9,10 @@ export const JournalPage = () => {
         {/* <Typography>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Provident temporibus asperiores cupiditate eaque a ipsa optio? Incidunt reprehenderit quisquam distinctio optio adipisci animi laboriosam dolores! Tenetur reiciendis maiores dignissimos exercitationem.</Typography> */}
 
         {/* Nothing Selected */}
-        {/* <NothingSelectedView /> */}
+        <NothingSelectedView />
 
         {/* Note view */}
-        <NoteView />
+        {/* <NoteView /> */}
 
         <IconButton
           size="large"
